@@ -347,10 +347,19 @@ h6 {
    4.2.1 BASIC STYLES               
 -----------------------------------------*/
 header {
-	background: url(../images2/air-conditioner-images/air-conditioning-repair.jpg) no-repeat center top fixed;
+	background: url(/af.png) no-repeat center top fixed;
+
+
 	-webkit-background-size: contain;
 	background-size: contain;
 }
+
+.logo-start {
+padding-bottom: 1rem;
+
+}
+
+
 
 header .vertical-registration-form {
 	margin-top: 60px;
